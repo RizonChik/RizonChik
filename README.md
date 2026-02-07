@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C2FF&width=600&lines=Java+Developer;Minecraft+Plugin+Developer;Spigot+%2F+Paper+1.16.5-1.21.x)](https://git.io/typing-svg)
 ## About
 
-![Banner](https://github.com/RizonChik/RizonChik/blob/main/%D0%A8%D0%B0%D0%BF%D0%BA%D0%B0.png?raw=true)
+![Banner](https://raw.githubusercontent.com/RizonChik/RizonChik/main/banner.png)
 
 Minecraft plugin developer working mainly with versions 1.16.5 – 1.21.x (Spigot / Paper).  
 Developing RP mechanics, server systems and custom gameplay features.  
